@@ -1,0 +1,96 @@
+  File: main.py
+  size: 1927      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259490     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: dbcalls.py
+  size: 2294      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259403     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: main_test.py
+  size: 1965      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259491     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: roster.db
+  size: 8192      	Blocks: 16         IO Block: 4096   regular file
+Device: 253,2	Inode: 2259492     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: templates/delete.html
+  size: 1008      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259494     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: templates/deleteresult.html
+  size: 763       	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259495     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: templates/home.html
+  size: 4871      	Blocks: 16         IO Block: 4096   regular file
+Device: 253,2	Inode: 2259521     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:21:03.630490829 -0700
+Modify: 2026-10-01 07:20:25.416572299 -0700
+Change: 2026-10-01 07:20:25.416572299 -0700
+ Birth: 2026-10-01 07:20:25.414804256 -0700
+  File: templates/search.html
+  size: 1213      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259497     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700
+  File: templates/searchresult.html
+  size: 1232      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259498     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700
+  File: templates/update.html
+  size: 1369      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259499     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700
+  File: templates/updateresult.html
+  size: 765       	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259500     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700
+  File: templates/view.html
+  size: 1155      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259501     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700

@@ -1,0 +1,117 @@
+Script started on 2026-10-01 08:19:11-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="154" LINES="28"]
+]666;vte.shell.postexec=0\]7;file://tj-QEMU-Virtual-Machine/home/tj/topic2/FlaskAppSdce\]0;tj@tj-QEMU-Virtual-Machine:~/topic2/FlaskAppSdce\]666;vte.shell.precmd!\[?2004h]0;tj@tj-QEMU-Virtual-Machine: ~/topic2/FlaskAppSdce[01;32mtj@tj-QEMU-Virtual-Machine[00m:[01;34m~/topic2/FlaskAppSdce[00m$ [7msha256sum --tag main.py dbcalls.py main_test.py roster.db templates/* > checksum_file.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csha256sum --tag main.py dbcalls.py main_test.py roster.db templates/* > checksum_file.txt
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://tj-QEMU-Virtual-Machine/home/tj/topic2/FlaskAppSdce\]0;tj@tj-QEMU-Virtual-Machine:~/topic2/FlaskAppSdce\]666;vte.shell.precmd!\[?2004h]0;tj@tj-QEMU-Virtual-Machine: ~/topic2/FlaskAppSdce[01;32mtj@tj-QEMU-Virtual-Machine[00m:[01;34m~/topic2/FlaskAppSdce[00m$ A[Ksha256sum --tag main.py dbcalls.py main_test.py roster.db templates/* > checksum_file.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K/*
+[?2004l]133;C\]666;vte.shell.preexec!\SHA256 (main.py) = 0393152e4d1fe12c736706fcfc02c7df99317f071acce1eee9eeeaba2b8b1da6
+SHA256 (dbcalls.py) = 164b70174f736dfc72a6ddd00b3f61026e982fa615b98dc5a1140f79dbd812e5
+SHA256 (main_test.py) = 7087e47fdd03d2508fd164068dfb8cae689209e6a199127296817051a74d4c51
+SHA256 (roster.db) = 1bf34f984246ded531a8e5873e4eb5c71c6e5804b9d49c988fe71d98dee6ca3d
+SHA256 (templates/delete.html) = 99b8da015efb3240d53096efbefc13ec7563a928b90a500b4082f60d5ab01ff2
+SHA256 (templates/deleteresult.html) = 85c75d7ae702e2387f755b901dd1a3840ec47f94bd14f153506f10c76d7a09b9
+SHA256 (templates/home.html) = 5d09097e269d75ed9f2dd6ca4e545f548ae7c4d820b1065d8e04e9668389dcb4
+SHA256 (templates/search.html) = f9f5d33c56fb8b6dc29d0bf6a859864bee5c304689a477ba8ba7b6c4f4fa4969
+SHA256 (templates/searchresult.html) = de520eee6fb3bc1a720609d9e47264104aad3d4477d6b747aa9d5cbcfad1179d
+SHA256 (templates/update.html) = ef8c8292a06f8384ea59d8323f78487f67311498b18512ae112218c20f8dd627
+SHA256 (templates/updateresult.html) = 73cb5dab63b336f303bef163d3966264c3e16eb94e0e61acc8fa5748c086a92d
+SHA256 (templates/view.html) = 507968ec33d8e94e2f78c5369bbbf11055ee44f6a4311abafd7b168445ba41ed
+]666;vte.shell.postexec=0\]7;file://tj-QEMU-Virtual-Machine/home/tj/topic2/FlaskAppSdce\]0;tj@tj-QEMU-Virtual-Machine:~/topic2/FlaskAppSdce\]666;vte.shell.precmd!\[?2004h]0;tj@tj-QEMU-Virtual-Machine: ~/topic2/FlaskAppSdce[01;32mtj@tj-QEMU-Virtual-Machine[00m:[01;34m~/topic2/FlaskAppSdce[00m$ [7mstat main.py dbcalls.py main_test.py roster.db templates/* > stats.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstat main.py dbcalls.py main_test.py roster.db templates/* > stats.txt
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://tj-QEMU-Virtual-Machine/home/tj/topic2/FlaskAppSdce\]0;tj@tj-QEMU-Virtual-Machine:~/topic2/FlaskAppSdce\]666;vte.shell.precmd!\[?2004h]0;tj@tj-QEMU-Virtual-Machine: ~/topic2/FlaskAppSdce[01;32mtj@tj-QEMU-Virtual-Machine[00m:[01;34m~/topic2/FlaskAppSdce[00m$ stat main.py dbcalls.py main_test.py roster.db templates/* > stats.txt[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l]133;C\]666;vte.shell.preexec!\  File: main.py
+  size: 1927      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259490     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: dbcalls.py
+  size: 2294      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259403     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: main_test.py
+  size: 1965      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259491     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: roster.db
+  size: 8192      	Blocks: 16         IO Block: 4096   regular file
+Device: 253,2	Inode: 2259492     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: templates/delete.html
+  size: 1008      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259494     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.998078386 -0700
+Change: 2026-10-01 07:10:18.998078386 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: templates/deleteresult.html
+  size: 763       	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259495     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.998078386 -0700
+  File: templates/home.html
+  size: 4871      	Blocks: 16         IO Block: 4096   regular file
+Device: 253,2	Inode: 2259521     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:21:03.630490829 -0700
+Modify: 2026-10-01 07:20:25.416572299 -0700
+Change: 2026-10-01 07:20:25.416572299 -0700
+ Birth: 2026-10-01 07:20:25.414804256 -0700
+  File: templates/search.html
+  size: 1213      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259497     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700
+  File: templates/searchresult.html
+  size: 1232      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259498     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700
+  File: templates/update.html
+  size: 1369      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259499     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700
+  File: templates/updateresult.html
+  size: 765       	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259500     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700
+  File: templates/view.html
+  size: 1155      	Blocks: 8          IO Block: 4096   regular file
+Device: 253,2	Inode: 2259501     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/      tj)   Gid: ( 1000/      tj)
+Access: 2026-10-01 07:14:45.396947438 -0700
+Modify: 2026-10-01 07:10:18.999737509 -0700
+Change: 2026-10-01 07:10:18.999737509 -0700
+ Birth: 2026-10-01 07:10:18.999737509 -0700
+]666;vte.shell.postexec=0\]7;file://tj-QEMU-Virtual-Machine/home/tj/topic2/FlaskAppSdce\]0;tj@tj-QEMU-Virtual-Machine:~/topic2/FlaskAppSdce\]666;vte.shell.precmd!\[?2004h]0;tj@tj-QEMU-Virtual-Machine: ~/topic2/FlaskAppSdce[01;32mtj@tj-QEMU-Virtual-Machine[00m:[01;34m~/topic2/FlaskAppSdce[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2026-10-01 08:20:39-07:00 [COMMAND_EXIT_CODE="0"]
